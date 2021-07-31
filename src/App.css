@@ -1,0 +1,21 @@
+.App-header {
+  text-align: center;
+}
+.title{
+  text-align: center;
+  display: inline-flex;
+}
+.title .logo{
+  margin-top: 5rem;
+  text-align: left;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.title h1{
+  text-align: right;
+  margin-top: 8.5rem;
+  margin-left: 0.2rem;
+  color: #51A64E;
+}
+
