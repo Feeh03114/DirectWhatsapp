@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 
 import './Directwhats.css'
 
-function DirectWhats(props) {
+export function DirectWhats(props) {
 
     const [telephone, setTele] = useState('')
     const [msg, setMsg] = useState('')
@@ -35,4 +35,3 @@ function DirectWhats(props) {
         </div>
     )
 }
-export default DirectWhats;

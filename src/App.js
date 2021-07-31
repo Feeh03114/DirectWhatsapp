@@ -2,7 +2,7 @@ import './App.css';
 import React from 'react'
 import DirectWhats from './Components/direct'
 
-function App() {
+export function App() {
   
   
   return (<div className='App-header'>
@@ -20,4 +20,3 @@ function App() {
       </div>   
   </div>);
 } 
-export default App;
