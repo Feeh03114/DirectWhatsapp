@@ -5,23 +5,19 @@ import DirectWhats from './Components/direct'
 function App() {
   
   
-  return (
-    <header className='title'>
-      <div>
-        <img className='logo' src='./imgs/ico.png' alt="" />
+  return (<>
+      <div className='title'> 
+        <div>
+          <img className='logo' src='./imgs/ico.png' alt="" />
+        </div>
+        <div>
+        <h1>Direct Whatsapp</h1>
+        </div>
       </div>
-      <div>
-      <h1>Direct Whatsapp</h1>
-      </div>
-    </header>
+          <DirectWhats className='dados'/>
+      <div className='rodape'>
 
-    <DirectWhats className='dados'/>
-
-    <div className='rodape'>
-
-    </div>
-      
-    
-);
+      </div>   
+</>);
 } 
 export default App;
