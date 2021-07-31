@@ -5,7 +5,7 @@ import DirectWhats from './Components/direct'
 function App() {
   
   
-  return (<className='App-header'>
+  return (<div className='App-header'>
       <div className='title'> 
         <div>
           <img className='logo' src='./imgs/ico.png' alt="" />
@@ -18,6 +18,6 @@ function App() {
       <div className='rodape'>
 
       </div>   
-</>);
+  </div>);
 } 
 export default App;
