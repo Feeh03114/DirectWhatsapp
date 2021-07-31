@@ -6,21 +6,22 @@ function App() {
   
   
   return (
-    <header className="App-header">
-      <div className='title'> 
-        <div>
-          <img className='logo' src='./imgs/ico.png' alt="" />
-        </div>
-        <div>
-        <h1>Direct Whatsapp</h1>
-        </div>
+    <header className='title'>
+      <div>
+        <img className='logo' src='./imgs/ico.png' alt="" />
       </div>
-          <DirectWhats className='dados'/>
-      <div className='rodape'>
-
+      <div>
+      <h1>Direct Whatsapp</h1>
       </div>
-      
     </header>
+
+    <DirectWhats className='dados'/>
+
+    <div className='rodape'>
+
+    </div>
+      
+    
 );
 } 
 export default App;
