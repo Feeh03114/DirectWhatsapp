@@ -5,7 +5,7 @@ import DirectWhats from './Components/direct'
 function App() {
   
   
-  return (<>
+  return (<className='App-header'>
       <div className='title'> 
         <div>
           <img className='logo' src='./imgs/ico.png' alt="" />
