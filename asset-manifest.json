@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/DirectWhatsapp/static/css/main.b36a8fbb.chunk.css",
-    "main.js": "/DirectWhatsapp/static/js/main.47a3938b.chunk.js",
-    "main.js.map": "/DirectWhatsapp/static/js/main.47a3938b.chunk.js.map",
+    "main.js": "/DirectWhatsapp/static/js/main.e488baa5.chunk.js",
+    "main.js.map": "/DirectWhatsapp/static/js/main.e488baa5.chunk.js.map",
     "runtime-main.js": "/DirectWhatsapp/static/js/runtime-main.303c79ca.js",
     "runtime-main.js.map": "/DirectWhatsapp/static/js/runtime-main.303c79ca.js.map",
-    "static/js/2.15fa441e.chunk.js": "/DirectWhatsapp/static/js/2.15fa441e.chunk.js",
-    "static/js/2.15fa441e.chunk.js.map": "/DirectWhatsapp/static/js/2.15fa441e.chunk.js.map",
+    "static/js/2.493f0845.chunk.js": "/DirectWhatsapp/static/js/2.493f0845.chunk.js",
+    "static/js/2.493f0845.chunk.js.map": "/DirectWhatsapp/static/js/2.493f0845.chunk.js.map",
     "static/js/3.65d3f937.chunk.js": "/DirectWhatsapp/static/js/3.65d3f937.chunk.js",
     "static/js/3.65d3f937.chunk.js.map": "/DirectWhatsapp/static/js/3.65d3f937.chunk.js.map",
     "index.html": "/DirectWhatsapp/index.html",
     "static/css/main.b36a8fbb.chunk.css.map": "/DirectWhatsapp/static/css/main.b36a8fbb.chunk.css.map",
-    "static/js/2.15fa441e.chunk.js.LICENSE.txt": "/DirectWhatsapp/static/js/2.15fa441e.chunk.js.LICENSE.txt"
+    "static/js/2.493f0845.chunk.js.LICENSE.txt": "/DirectWhatsapp/static/js/2.493f0845.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.303c79ca.js",
-    "static/js/2.15fa441e.chunk.js",
+    "static/js/2.493f0845.chunk.js",
     "static/css/main.b36a8fbb.chunk.css",
-    "static/js/main.47a3938b.chunk.js"
+    "static/js/main.e488baa5.chunk.js"
   ]
 }
